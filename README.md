@@ -4,7 +4,7 @@ Feature extraction (FEX) for security patch clearance through Nearest Link Searc
 
 Also, an advanced solution of feature extraction for security patch identification in the paper [Detecting "0-Day" Vulnerability: An Empirical Study of Secret Security Patch in OSS](https://csis.gmu.edu/ksun/publications/secretpatch-dsn19.pdf).
 
-If you find this dataset useful in your research, please consider citing:
+If you find this script useful in your research, please consider citing:
 
 ```
 @inproceedings{wang2021patchdb,
